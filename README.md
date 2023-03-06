@@ -1,6 +1,6 @@
 ###### Hello! I'm Olga👋 Welcome to my GitHub Page!
 
-As a Full-Stack Developer, I'm all about creating websites and apps that are easy to use and look great on any device. I use different programming languages and tools like HTML, CSS, Bootstrap, JavaScript, React, Python, Axios, and SQL to make sure that everything I build is responsive and user-friendly. My goal is to create websites and apps that are both functional and appealing, so that everyone who uses them has a great experience.
+As a Full-Stack Developer, I'm all about creating websites and apps that are easy to use and look great on any device. I use different programming languages and tools like HTML, CSS, Bootstrap, JavaScript, React, Python, Axios, and SQL to make sure that everything I build is responsive and user-friendly. My goal is to create websites and apps that are both functional and appealing, so that everyone who uses them has a great experience. I'm always learning and expanding my skillset to stay up-to-date with the latest trends and technologies in the industry.
 
 About me:
 
